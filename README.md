@@ -6,6 +6,7 @@
   <li> <a href="https://down.ysgc.xyz">影视工场（有广告）</a> </li>
   <li> <a href="https://cdkm.com/cn">在线文件转换</a> </li>
   <li> <a href="https://docs.qq.com/doc/DR2JjZFdTWHd4VUh5">听音乐软件</a> </li>
+  <li> <a href="https://adzhp.vip">爱达杂货铺网址发布页</a> </li>
   <li> <a href="链接">名称</a> </li>
 </ul>
 
