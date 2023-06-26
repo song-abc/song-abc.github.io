@@ -10,7 +10,7 @@
   <li> <a href="https://xmsoushu.com/">熊猫搜书</a> </li>
   <li> <a href="https://sobooks.net">sobook（搜书）</a> </li>
   <li> <a href="https://greasyfork.org/zh-CN/scripts/413228-bilibili视频下载">bilibili视频下载在线下载</a> </li>
-  <li> <a href="链接">名称</a> </li>
+  <li> <a href="https://github.com/leiurayer/downkyi">哔哩下载姬downkyi</a> </li>
   <li> <a href="链接">名称</a> </li>
   <li> <a href="链接">名称</a> </li>
   <li> <a href="链接">名称</a> </li>
