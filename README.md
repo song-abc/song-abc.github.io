@@ -8,7 +8,7 @@
   <li> <a href="https://docs.qq.com/doc/DR2JjZFdTWHd4VUh5">听音乐软件</a> </li>
   <li> <a href="https://adzhp.vip">爱达杂货铺网址发布页</a> </li>
   <li> <a href="https://xmsoushu.com/">熊猫搜书</a> </li>
-  <li> <a href="链接">名称</a> </li>
+  <li> <a href="https://sobooks.net">sobook（搜书）</a> </li>
   <li> <a href="链接">名称</a> </li>
 </ul>
 
